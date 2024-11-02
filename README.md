@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Segundavid-Dev, Undergrad Comp sci
-- 👀 Currently exloring The World of Vast of Python Programming [Deep Dive into Python (Algorithms, Data Science, Libraries, Backend Framwworks)]
-- 🌱 Maybe ML might just work for me, Can never tell, stay tuned!😆
+- 👋 Hi, I’m @Segundavid-Dev, Undergrad Comp sci (3rd Year)
+- 👀 Currently exloring software engineerring (Javascript & Python)
+- 🌱 Learning Everyday to become my most cracked version1, stay tuned!😆
 - 💞️ I love Anime, Football, Good Music, Exploring People Github projects, Food.... [(yeah, In this order)]😎
 - 📫 How to reach me ..
 Gmail @ segdavid03@gmail.com
