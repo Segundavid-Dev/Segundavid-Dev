@@ -9,7 +9,7 @@
 ```
 
 
-Skills: 
+**Skills:** 
 ```
 💬 Typescript
 💬 Javascript
